@@ -1,0 +1,1 @@
+# workspace_static_web_apps_sample
